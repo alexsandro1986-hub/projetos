@@ -43,6 +43,13 @@ body {
     cursor: pointer;
     transition: .2s;
 }
+.btn-contato a {
+    padding: 9px 9px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #00FF08;
+  
+}
 
 h2.titulo {
     color: #fff;
@@ -172,18 +179,18 @@ section.topo-do-site .flex {
     gap: 90px;
 }
 
-.topo-do-site h1 {
+.topo-do-site h3 {
     color: #fff;
-    font-size: 42px;
-    line-height: 40px;
+    
+    line-height: 10px;
 }
 .topo-do-site h2 {
     color: #fff;
     font-size: 32px;
-    line-height: 40px;
+    line-height: 10px;
 }
 
-.topo-do-site .txt-topo-site h1 span {
+.topo-do-site .txt-topo-site h3 span {
     color: #00FF08;
 }
 .topo-do-site .txt-topo-site h2 span {
@@ -192,7 +199,7 @@ section.topo-do-site .flex {
 
 .topo-do-site .txt-topo-site p {
     color: #fff;
-    margin: 40px 0;
+    margin: 30px 0;
 }
 
 .topo-do-site .img-topo-site img {
